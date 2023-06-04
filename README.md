@@ -8,7 +8,7 @@ Esse é um projeto feito para ajudar na organização da sua mochila de viagem
 ## 🚀 Tecnologias
 Nesse projeto foi utilizado as tecnologias:
 
-- <a href="https://icons8.com/icon/20909/html-5"></a><a href="https://icons8.com"></a>
+- <img src="assets/html.png" alt="Demonstração html" width="48px"/>
 - CSS
 - JS
 - Git e Github
